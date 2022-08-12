@@ -1,8 +1,5 @@
 # Program : Generate rsa keys
 # Description : Allow to generate rsa keys
-# Date : 29/06/22
-# Author : Christophe Lagaillarde
-# Version : 1.0
 
 import rsa
 from store_rsa_keys_in_files import store_rsa_keys_in_files

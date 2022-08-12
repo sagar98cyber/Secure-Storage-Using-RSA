@@ -1,8 +1,5 @@
 # Program : Store RSA keys in files
 # Description : Store the RSA keys into files
-# Date : 29/06/22
-# Author : Christophe Lagaillarde
-# Version : 1.0
 
 import rsa
 

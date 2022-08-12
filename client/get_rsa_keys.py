@@ -1,8 +1,5 @@
 # Program : Get RSA keys in files
 # Description : Get the RSA keys from files
-# Date : 29/06/22
-# Author : Christophe Lagaillarde
-# Version : 1.0
 
 from typing import Type
 import rsa
