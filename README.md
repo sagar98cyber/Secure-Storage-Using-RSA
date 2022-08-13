@@ -3,6 +3,9 @@
 >The file data that is being stored on the remote location is transferred using the PYTHON-SOCKET programming.<br>
 >The data stored in the file is encrypted using the RSA ALGORITHM
 
+# WALKTHROUGH 
+
+[VIDEO TUTORIAL] (https://youtu.be/dQ-saITEvpk)
 <!--Python Assignment for TA2 
 
  
