@@ -5,7 +5,7 @@
 
 # WALKTHROUGH 
 
-[VIDEO TUTORIAL] (https://youtu.be/dQ-saITEvpk)
+[VIDEO TUTORIAL](https://youtu.be/dQ-saITEvpk)
 <!--Python Assignment for TA2 
 
  
